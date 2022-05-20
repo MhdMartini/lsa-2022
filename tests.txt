@@ -1,0 +1,1 @@
+Five characters with 50 indexes each
